@@ -5,6 +5,10 @@
 //
 //  Minor changes made to some types.
 //  Compile with -ljpeg
+//
+//  Edited by: Aiden Soroko
+//  Date: 11/18/2025
+//  Assignment: Lab 11 Multiprocessing
 ///
 #include <stdlib.h>
 #include <stdio.h>

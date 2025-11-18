@@ -1,3 +1,6 @@
+//  Edited by: Aiden Soroko
+//  Date: 11/18/2025
+//  Assignment: Lab 11 Multiprocessing
 #ifndef JPEGRW_H
 #define JPEGRW_H
 

@@ -5,6 +5,9 @@
 //
 //  Converted to use jpg instead of BMP and other minor changes
 //  
+//  Edited by: Aiden Soroko
+//  Date: 11/18/2025
+//  Assignment: Lab 11 Multiprocessing
 ///
 #include <stdlib.h>
 #include <stdio.h>
